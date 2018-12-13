@@ -11,7 +11,7 @@ Included in this repository is an [index.html](index.html) file that contains a 
 * `Email` must be a valid email address.
 * `Password` must be longer than 8 characters.
 * `Colour` must be selected.
-* At least two `Animal`s must be chosen.
+* At least two `Animals` must be chosen.
 * If `Tiger` is one of the chosen `Animal`s then `Type of tiger` is required to be a non-empty string.
 
 ## Other requirements
