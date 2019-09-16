@@ -6,7 +6,7 @@ If you've stumbled across this and want to work at [Inquisitive](https://www.inq
 
 ## Problem definition
 
-Included in this repository is an [index.html](index.html) file that contains a form. You must ensure all of the following rules are met before the form is posted to the (in this case imaginary) server:
+Included in this repository is an [index.html](index.html) file that contains a form. Your task is to convert this form into a React application. You must ensure all of the following rules are met before the form is posted to the (in this case imaginary) server:
 
 * `Email` must be a valid email address.
 * `Password` must be longer than 8 characters.
@@ -29,13 +29,11 @@ If the form is submitted and an error occurs, the error element's parent should 
 
 Beyond the problem statement, show us the consideration you have given to some or all of the following:
 
-- Documentation
 - Accessibility
-- Progressive enhancement
-- Browser support
+- UX / usability 
+- Browser support / compatibility
 - Testing
-- Tooling
 
 ## Submission
 
-Please email us a link to your fork of this repository, or a zip of your solution to `rose.pollock@inquisitive.com`.
+Please email a link to your fork of this repository, or a zip of your solution to `rose.pollock@inquisitive.com`.
