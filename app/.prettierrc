@@ -1,0 +1,15 @@
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "eslintintegration": false,
+  "jsxBracketSameLine": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "requireConfig": false,
+  "semi": true,
+  "singleQuote": true,
+  "styleLintIntegration": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false
+}
